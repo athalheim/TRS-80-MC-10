@@ -28,7 +28,8 @@ From the MC-10 to home computer
 -c10ToVb.py
   Convert C10 formatted file (see below) to plain text file.
   
-===========================================================
+-----------------------------------------------------------
+
 C10 format:
   A binary file formatted as per MC-10 specifications:
     -Leader: 128 bytes of value x55;
