@@ -161,15 +161,8 @@ def main():
         c10Values.append(data)
 
 
-    print('len(c10Values)')
-    print(len(c10Values))
-    print('c10Values')
-    print(c10Values)
-
-    exit()
-
     # Convert short integers to bytes
-    c10Bytes = bytearray
+    c10Bytes = bytearray()
     for d in c10Values:
         c10Bytes.extend(d.to_bytes(1,'big'))
 
