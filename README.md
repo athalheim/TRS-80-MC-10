@@ -30,6 +30,12 @@ From the MC-10 to home computer
   
 -----------------------------------------------------------
 
+MC10-Codes.txt
+  Table of VB keywords and associated byte value;
+  Used in 'vbToC10.py' and 'c10ToVb.py'.
+  
+-----------------------------------------------------------
+
 C10 format:
   A binary file formatted as per MC-10 specifications:
     -Leader: 128 bytes of value x55;
