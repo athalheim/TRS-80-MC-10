@@ -22,10 +22,16 @@ The Python files found here help in using text files edited on another computer:
   
 C10 format:
   A binary file formatted as per MC-10 specifications:
-    -Leader: 128 bytes of value x55
-    -Header: Block containing program name and type
-    (Note: missing half-second 'silence')
-    -Leader: 128 bytes of value x55
-    -Code blocks
-    -EOF block
+    -Leader: 128 bytes of value x55;
+    
+    -Header: Block containing program name and type;
+    
+    (Note: missing half-second 'silence');
+    
+    -Leader: 128 bytes of value x55;
+    
+    -Code blocks;
+    
+    -EOF block;
+    
     
