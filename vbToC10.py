@@ -97,11 +97,11 @@ def main():
     c10Filepath = vbFileRoot + '.C10'
 
     # Set C10 program filename
-    programName = txtFileRoot.rsplit('/', 1).pop()
+    programName = vbFileRoot.rsplit('/', 1).pop()
     programName = programName[:8]
     programName = programName.upper()
 
-    getCodeLines(txtFilepath)
+    getCodeLines(vbFilepath)
 
 
         # End of code delimitation
