@@ -6,9 +6,11 @@ The Python files found here help in using text files edited on another computer:
 Data
 
 -mc10BasicRom.bin
+
   MC-10 BASIC interpreter (8k)
   
 mc10BasicRomInContext.bin
+
   MC-10 BASIC interpreter (8k), in context (addresses E000-FFFF)
 
 
