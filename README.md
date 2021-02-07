@@ -35,9 +35,7 @@ From the MC-10 to home computer (Beware! This code was not extensively tested!)
   
 -----------------------------------------------------------
 
-MC10-Codes.txt                Table of VB keywords and associated byte value;
-  
-  Used in 'vbToC10.py' and 'c10ToVb.py'.
+MC10-Codes.txt --- Table of VB keywords and associated byte value, used in 'vbToC10.py' and 'c10ToVb.py'.
   
 -----------------------------------------------------------
 
