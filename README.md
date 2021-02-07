@@ -3,7 +3,19 @@ Code and data related to the TRS-80 MC-10 computer
 Editing VB code using the MC-10 keyboard is a pain, particularly with long code.
 The Python files found here help in using text files edited on another computer:
 
+Data
+
+-mc10BasicRom.bin
+  MC-10 BASIC interpreter (8k)
+  
+mc10BasicRomInContext.bin
+  MC-10 BASIC interpreter (8k), in context (addresses E000-FFFF)
+
+
+-----------------------------------------------------------
+
 -MC10.png
+
   Graphic description of the process.
 
 -----------------------------------------------------------
