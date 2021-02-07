@@ -12,9 +12,7 @@ mc10BasicRomInContext.bin --- vMC-10 BASIC interpreter (8k), in context (address
 
 -----------------------------------------------------------
 
--MC10.png
-
-  Graphic description of the process.
+-MC10.png --- Graphic description of the process.
 
 -----------------------------------------------------------
 
