@@ -5,9 +5,9 @@ The Python files found here help in using text files edited on another computer:
 
 Data
 
--mc10BasicRom.bin             MC-10 BASIC interpreter (8k)
+-mc10BasicRom.bin --- MC-10 BASIC interpreter (8k)
   
-mc10BasicRomInContext.bin     MC-10 BASIC interpreter (8k), in context (addresses E000-FFFF)
+mc10BasicRomInContext.bin --- vMC-10 BASIC interpreter (8k), in context (addresses E000-FFFF)
 
 
 -----------------------------------------------------------
@@ -20,18 +20,18 @@ mc10BasicRomInContext.bin     MC-10 BASIC interpreter (8k), in context (addresse
 
 On the way from home computer to the MC-10:
 
--vbToC10.py                   Convert VB code (in a text file) into the C10 format (see below).
+-vbToC10.py --- Convert VB code (in a text file) into the C10 format (see below).
   
--c10ToWav.py                  Convert C10 formatted file (see below) to a wave-formatted sound file.
+-c10ToWav.py --- Convert C10 formatted file (see below) to a wave-formatted sound file.
                               Play this file to the MC-10 computer to load the program.
 
 -----------------------------------------------------------
 
 From the MC-10 to home computer (Beware! This code was not extensively tested!)
 
--wavToC10.py                  Convert C10-formatted wave file to C10 format (see below)
+-wavToC10.py --- Convert C10-formatted wave file to C10 format (see below)
   
--c10ToVb.py                   Convert C10 formatted file (see below) to plain text file.
+-c10ToVb.py --- Convert C10 formatted file (see below) to plain text file.
   
 -----------------------------------------------------------
 
